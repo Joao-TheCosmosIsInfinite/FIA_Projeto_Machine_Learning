@@ -7,7 +7,7 @@
 <h2> Authors</h2>
 <p><b>Name:</b> João Paulo Ribeiro dos Santos</p>
 <p><b>E-mail:</b> joao1615@gmail.com</p>
-<p><b>Linkedin:</b><a href = 'https://www.linkedin.com/in/jo%C3%A3o-paulo-ribeiro-dos-santos-7716499b/'> Link</a></p>
+<p><b>Linkedin:</b><a href = 'https://www.linkedin.com/in/joão-paulo-ribeiro-dos-santos-7716499b'> Link</a></p>
 
 <h2>Built With</h2>
 <ul>
