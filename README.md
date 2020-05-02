@@ -2,17 +2,19 @@
 <p>Projeto de Machine Learning utilizando uma base de dados de compra da empresa Olist.</p>
 
 <h2>Introduction</h2>
-<p>Esse trabalho diz respeito ao projeto de machine learning do curso de Pós-Graduação em Análise de Big Data, da faculdade <a href = 'https://fia.com.br/'>FIA(Fundação Instituto de Administração)</a>, onde sou aluno e estou matriculado na turma 12.</p>
+<p>Esse trabalho diz respeito ao projeto de machine learning do curso de Pós-Graduação em Análise de Big Data, da faculdade <a href = 'https://fia.com.br/'>FIA ( Fundação Instituto de Administração )</a>, onde sou aluno e estou matriculado na turma 12.</p>
 
 <h2> Authors</h2>
-<p>João Paulo Ribeiro dos Santos</p>
+<p><b>Name:</b> João Paulo Ribeiro dos Santos</p>
+<p><b>E-mail:</b> joao1615@gmail.com</p>
+<p><b>Linkedin:</b><a href = 'https://www.linkedin.com/in/jo%C3%A3o-paulo-ribeiro-dos-santos-7716499b/'> Link</a></p>
 
 <h2>Built With</h2>
 <ul>
-	<li><a href = "https://www.python.org/">Python - Umas das linguagens de programação mais utilizadas no mundo. Não obstante a isso a mais utilizada em Data Science</a></li>
-	<li><a href = "https://spark.apache.org/">Apache Spark - Framework voltado para computação distribuída</a></li>
-	<li><a href = "https://databricks.com/">DataBricks - Estrutura em nuvem voltada para computação distribuída, sendo utilizada para engenharia de dados e trabalhos colaborativos voltados a datascience</a></li>
-	<li><a href = "https://aws.amazon.com/pt/">Amazon AWS - Plataforma de serviços para computação em nuvem</a></li>
+	<li><a href = "https://www.python.org/">Python</a> - Umas das linguagens de programação mais utilizadas no mundo. Não obstante a isso a mais utilizada em Data Science</li>
+	<li><a href = "https://spark.apache.org/">Apache Spark</a> - Framework voltado para computação distribuída</li>
+	<li><a href = "https://databricks.com/">DataBricks</a> - Estrutura em nuvem voltada para computação distribuída, sendo utilizada para engenharia de dados e trabalhos colaborativos voltados a datascience</li>
+	<li><a href = "https://aws.amazon.com/pt/">Amazon AWS</a> - Plataforma de serviços para computação em nuvem</li>
 </ul>
 
 <h2>Database</h2>
